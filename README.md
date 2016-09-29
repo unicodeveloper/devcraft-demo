@@ -7,9 +7,13 @@ A user signs into the app to unlock a tasty plate of Kenyan delicacy. Most likel
 ## Screenshots
 
 ![screen shot 2016-09-29 at 5 25 26 am](https://cloud.githubusercontent.com/assets/2946769/18939004/b79e42a8-8605-11e6-85de-b509ebff9570.png)
-![screen shot 2016-09-29 at 5 25 03 am](https://cloud.githubusercontent.com/assets/2946769/18939008/b7a0bd9e-8605-11e6-8770-f81113ba3dbc.png)
-![screen shot 2016-09-29 at 5 25 11 am](https://cloud.githubusercontent.com/assets/2946769/18939005/b79ebf26-8605-11e6-975b-cd57b76a3d60.png)
+_HomePage_
 ![screen shot 2016-09-29 at 5 25 42 am](https://cloud.githubusercontent.com/assets/2946769/18939006/b79f314a-8605-11e6-971d-29bf4470d7ba.png)
+_Auth0 lock Widget_
+![screen shot 2016-09-29 at 5 25 11 am](https://cloud.githubusercontent.com/assets/2946769/18939005/b79ebf26-8605-11e6-975b-cd57b76a3d60.png)
+_Profile Info_
+![screen shot 2016-09-29 at 5 25 03 am](https://cloud.githubusercontent.com/assets/2946769/18939008/b7a0bd9e-8605-11e6-8770-f81113ba3dbc.png)
+_Serves Ughali
 
 
 ## Installation
