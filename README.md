@@ -13,7 +13,7 @@ _Auth0 lock Widget_
 ![screen shot 2016-09-29 at 5 25 11 am](https://cloud.githubusercontent.com/assets/2946769/18939005/b79ebf26-8605-11e6-975b-cd57b76a3d60.png)
 _Profile Info_
 ![screen shot 2016-09-29 at 5 25 03 am](https://cloud.githubusercontent.com/assets/2946769/18939008/b7a0bd9e-8605-11e6-8770-f81113ba3dbc.png)
-_Serves Ughali
+_Serves Ughali_
 
 
 ## Installation
