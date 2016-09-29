@@ -12,8 +12,8 @@
 
       // Initialization for the Lock widget
       lockProvider.init({
-        clientID: AUTH0_CLIENT_ID,
-        domain: AUTH0_DOMAIN
+        clientID: 'BeDd0DAu9wlnBavloD3hsZtVhw8c1DQe',
+        domain: 'unicodeveloper.auth0.com'
       });
 
       // Configuration for angular-jwt
