@@ -1,0 +1,16 @@
+{
+  "name": "DevCraft Demo",
+  "description": "Sample app showing how to use Auth0 with Angular 1.x",
+  "repository": "https://github.com/unicodeveloper/devcraft-demo",
+  "keywords": ["angular", "auth0"],
+  "env": {
+    "CLIENT_ID": {
+      "description": "Client ID for the user's Auth0 account",
+      "value": "AUTH0_CLIENT_ID"
+    },
+    "DOMAIN": {
+      "description": "Domain for the user's Auth0 account",
+      "value": "AUTH0_DOMAIN"
+    }
+  }
+}

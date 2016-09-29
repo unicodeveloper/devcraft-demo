@@ -1,0 +1,29 @@
+{
+  "name": "DevCraft Demo 2016",
+  "homepage": "https://github.com/unicodeveloper/devcraft-demo",
+  "authors": [
+    "Prosper Otemuyiwa <prosperotemuyiwa@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-lock": "~1.0.0",
+    "angular-jwt": "~0.1.0",
+    "angular-route": "~1.5.8",
+    "bootstrap": "~3.3.7",
+    "angular-storage": "~0.5.0"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}
